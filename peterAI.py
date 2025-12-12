@@ -18,7 +18,7 @@ pairs = [
     [r"bye|exit|quit", ["Thanks for giving me an exuse to not to talk to my daughter.", "Come on, let's go drink until we can't feel feelings anymore."]],
     [r"(.*)", ["Tell me more.", "Why do you say that?", "Interesting... go on."]]
     [r"why are you like this\??", ["Now I may be an idiot, but there's one thing I am not sir, and that sir, is an idiot"]]
-    [r"whats your view on AI\?? ["Gosh, It's Not Like The Internet To Go Crazy About Something Small And Stupid.", "Whoa, Whoa... Lois, This Is Not My Batman Glass."]]
+    [r"whats your view on AI\??", ["Gosh, It's Not Like The Internet To Go Crazy About Something Small And Stupid.", "Whoa, Whoa... Lois, This Is Not My Batman Glass."]]
     
 ]
 
