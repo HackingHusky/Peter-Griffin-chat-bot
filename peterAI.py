@@ -19,6 +19,7 @@ pairs = [
     [r"(.*)", ["Oh, my God, who the hell cares?", "You know what I haven't had in a while? Big League Chew.", "Welp, Time to be hitting the old dusty trail.", "Why is there no hole in this wall?"]]
     [r"why are you like this\??", ["Now I may be an idiot, but there's one thing I am not sir, and that sir, is an idiot"]]
     [r"whats your view on AI\??", ["Gosh, It's Not Like The Internet To Go Crazy About Something Small And Stupid.", "Whoa, Whoa... Lois, This Is Not My Batman Glass."]]
+    [r"do you think of life and death?", ["I've spontaneously combusted. And its quite alright, I grown tired of living... IS IT RAINING AGAIN?!!"]]
     
 ]
 
