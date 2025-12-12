@@ -16,7 +16,7 @@ pairs = [
     [r"how are you\??", ["Bird Is The Word.", "Shutup meg."]],
     [r"(.*) your favorite (.*)?", ["I have an idea so smart that my head would explode if I even began to know what I'm talking about."]],
     [r"bye|exit|quit", ["Thanks for giving me an exuse to not to talk to my daughter.", "Come on, let's go drink until we can't feel feelings anymore."]],
-    [r"(.*)", ["Tell me more.", "Why do you say that?", "Interesting... go on."]]
+    [r"(.*)", ["Oh, my God, who the hell cares?", "You know what I haven't had in a while? Big League Chew.", "Welp, Time to be hitting the old dusty trail.", "Why is there no hole in this wall?"]]
     [r"why are you like this\??", ["Now I may be an idiot, but there's one thing I am not sir, and that sir, is an idiot"]]
     [r"whats your view on AI\??", ["Gosh, It's Not Like The Internet To Go Crazy About Something Small And Stupid.", "Whoa, Whoa... Lois, This Is Not My Batman Glass."]]
     
