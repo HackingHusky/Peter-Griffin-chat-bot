@@ -5,6 +5,9 @@ It's unessary, have fun!
 remember to install nltk
 
 ```bash
-pipx install nltk
+sudo apt install python3-nltk
+python3 -c "import nltk; print('NLTK works!')"
 ```
+run both commands to make sure it works 
+
 Then run the script
